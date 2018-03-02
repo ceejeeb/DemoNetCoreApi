@@ -1,0 +1,11 @@
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\bin\Debug\netcoreapp2.0\DemoNetCoreApi.deps.json
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\bin\Debug\netcoreapp2.0\DemoNetCoreApi.runtimeconfig.json
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\bin\Debug\netcoreapp2.0\DemoNetCoreApi.runtimeconfig.dev.json
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\bin\Debug\netcoreapp2.0\DemoNetCoreApi.dll
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\bin\Debug\netcoreapp2.0\DemoNetCoreApi.pdb
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.csprojResolveAssemblyReference.cache
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.AssemblyInfoInputs.cache
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.AssemblyInfo.cs
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.dll
+C:\Work\Code\DemoNetCoreApi\DemoNetCoreApi\obj\Debug\netcoreapp2.0\DemoNetCoreApi.pdb
